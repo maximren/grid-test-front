@@ -1,0 +1,18 @@
+.inputs-wrapper {
+  width: 400px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 8px;
+
+  .input-container {
+    width: 80%
+  }
+
+  .button-wrapper {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,24 @@
+.custom-button {
+  width: 100px;
+  border: none;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  border: 1px solid transparent;
+  color: #443f3f;
+  outline: none;
+
+  &:hover {
+    background-color: #36304a;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+  }
+}
